@@ -1,4 +1,8 @@
 This is line1
 This is line21
 This is line3
+<<<<<<< HEAD
 "add line4" 
+=======
+line5
+>>>>>>> refs/remotes/origin/master
